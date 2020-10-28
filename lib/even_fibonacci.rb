@@ -9,7 +9,7 @@ def fibonacci(num)
     
 end
 
-fibonacci(8) #returns eight number in the fibonacci sequence, with 0 as first
+fibonacci(10) #returns eight number in the fibonacci sequence, with 0 as first
 
 
 def fibonacci_even(num)
@@ -24,4 +24,4 @@ def fibonacci_even(num)
     puts even
 end
 
-fibonacci_even(8)
+# fibonacci_even(8)
